@@ -1,0 +1,84 @@
+#calculo {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: auto;
+  height: 100vh;
+  padding-top: 70px;
+}
+.prueba {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+#numero1 {
+  width: 30px;
+  position: absolute;
+  top: 29%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#numero2 {
+  width: 30px;
+  position: absolute;
+  top: 38%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#numero3 {
+  width: 30px;
+  position: absolute;
+  top: 46.5%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#numero4 {
+  width: 30px;
+  position: absolute;
+  top: 55%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#numero5 {
+  width: 30px;
+  position: absolute;
+  top: 64%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#numero6 {
+  width: 30px;
+  position: absolute;
+  top: 72%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#numero7 {
+  width: 30px;
+  position: absolute;
+  top: 81%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#numero8 {
+  width: 30px;
+  position: absolute;
+  top: 89%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.boton {
+  color: white;
+}
+.container-respuesta{
+    border: 1px solid black;
+}
